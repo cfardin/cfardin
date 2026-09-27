@@ -20367,8 +20367,8 @@
         "y": 106
       },
       "size": {
-        "width": 488,
-        "height": 272
+        "width": 528,
+        "height": 260
       },
       "config": {
         "accentColor": "transparent",
@@ -20379,7 +20379,9 @@
         "showStatus": true,
         "showHighlights": true,
         "showJoined": false,
-        "showAchievements": true
+        "showAchievements": true,
+        "showLanguages": true,
+        "customLanguages": "TypeScript, JavaScript, Python, Java, C++"
       },
       "locked": false,
       "visible": true,
@@ -20478,7 +20480,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790003961528_83qbg",
-    "updatedAt": "2026-09-21T15:19:26.471Z"
+    "revision": "rev_1790519493946_66j1o",
+    "updatedAt": "2026-09-27T14:31:36.604Z"
   }
 }
